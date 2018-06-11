@@ -7,4 +7,7 @@ http://jsbin.com/wifomatetu/edit?html,css,output
 
 figma - jak invision
 flinto - animacje
-principle - animacje ( mac) 
+principle - animacje ( mac)
+
+Mobile first - Luc Wróblewski  ( a book a part)  a list apart
+
