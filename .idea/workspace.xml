@@ -35,8 +35,8 @@
       <file leaf-file-name="linki.txt.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/linki.txt.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+            <state relative-caret-position="68">
+              <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -128,12 +128,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528704501792</updated>
-      <workItem from="1528704503818" duration="9558000" />
+      <workItem from="1528704503818" duration="10347000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9558000" />
+    <option name="totallyTimeSpent" value="10347000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="766" y="0" width="776" height="830" extended-state="0" />
@@ -181,8 +181,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/linki.txt.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        <state relative-caret-position="68">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
         </state>
       </provider>
     </entry>
