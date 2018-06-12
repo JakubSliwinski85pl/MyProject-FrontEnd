@@ -26,7 +26,10 @@ talewind css  - zestawy malutkich klas
 
 
 
+npmjs.com - lista komponentow do pobrania
+npm live-server
 
+npx - pobiera projekt, instalulje i uruchamia 
 
 
 
