@@ -1,6 +1,19 @@
 main{
-    margin-top: 58px;
+    margin-top: 20px;
 }
 header{
     background-color: white;
+}
+body{
+background: url("http://fillmurray.com/g/1500/400") no-repeat;
+    background-position: top center;
+    padding-top: 400px;
+}
+
+.search-box{
+    border:solid;
+    position: absolute;
+    width: 100%;
+    top: 300px;
+    background: rgba(0,0,0,0.3);
 }
