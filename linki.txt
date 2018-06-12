@@ -1,8 +1,44 @@
 linki do jsbin.com
 
-http://jsbin.com/fukopuyoye/edit?html,css,output
-http://jsbin.com/giluqavavu/edit?html,css,output
-http://jsbin.com/wifomatetu/edit?html,css,output
+http://jsbin.com/fukopuyoye/edit?html,css,output     --
+http://jsbin.com/giluqavavu/edit?html,css,output     --
+http://jsbin.com/wifomatetu/edit?html,css,output     --
+http://jsbin.com/nohexociwe/edit?html,css,output    --praca z tekstem html+css
+http://jsbin.com/givetuneqo/edit?html,css,output    --media queries
+
+--css FLEX
+http://jsbin.com/furadeqeqo/edit?html,css,output    -- flex
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/ --- dokumentacja do flexa
+https://flexboxfroggy.com/#pl - gra do nauki flexa
+
+-- css GRID
+https://css-tricks.com/snippets/css/complete-guide-grid/ - pozwala za pomoca css tak jak to robią designerzy ( na razie małe wsparcie)
+https://gridbyexample.com/
+
+
+
+--CSS frameworks
+bootstrap - klasy z pełnymi ustawieniami
+talewind css  - zestawy malutkich klas
+
+
+
+
+
+
+
+
+
+
+caniuse.com - sprawdzanie wsparcia przegladarek dla wszystkich technologi
+
+
+
+
+devdocs.io - dokumentacja dla developerów , wiele tematów
+dashup - dokumentacja lokalnie instalowana na kompie
+zealdocs.org - to samo co wyzej tylko na windowsa
+velocity - to samo co wyzej tylko płatnie
 
 
 unsplash - obrazki
