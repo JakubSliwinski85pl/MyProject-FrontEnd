@@ -26,8 +26,8 @@
       <file leaf-file-name="MyFirstInvoice.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_invoice/MyFirstInvoice.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="75" column="24" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
+            <state relative-caret-position="244">
+              <caret line="143" column="54" lean-forward="true" selection-start-line="143" selection-start-column="54" selection-end-line="143" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -95,7 +95,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="713" />
     <option name="width" value="1214" />
     <option name="height" value="1038" />
@@ -160,12 +160,12 @@
       <option name="presentableId" value="Default" />
       <updated>1528704501792</updated>
       <workItem from="1528704503818" duration="12649000" />
-      <workItem from="1528783912409" duration="21712000" />
+      <workItem from="1528783912409" duration="24185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34361000" />
+    <option name="totallyTimeSpent" value="36834000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="571" y="0" width="971" height="830" extended-state="0" />
@@ -270,8 +270,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_invoice/MyFirstInvoice.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="75" column="24" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
+        <state relative-caret-position="244">
+          <caret line="143" column="54" lean-forward="true" selection-start-line="143" selection-start-column="54" selection-end-line="143" selection-end-column="54" />
         </state>
       </provider>
     </entry>

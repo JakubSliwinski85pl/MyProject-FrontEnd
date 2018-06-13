@@ -8,25 +8,19 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
           integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 
-
 </head>
 <body>
-
 <div class="container">
-    <h1>Wystaw fakturę</h1>
-
+    <h1 align="center">Wystaw fakturę</h1>
+    <br>
     <form>
         <section class="row">
-
             <div class="col-3">
-
                 <label for="NrFaktury">Nr faktury</label>
                 <input id="NrFaktury" type="text" class="form-control" placeholder="Wprowadź numer faktury">
-
-
-                <label for="Kontrahent">Nr faktury</label>
+                <br>
+                <label for="Kontrahent">Kontrahent</label>
                 <input id="Kontrahent" list="ListaKontrahentow" class="form-control">
-
                 <datalist id="ListaKontrahentow">
                     <option>Kontrahent1</option>
                     <option>Kontrahent2</option>
@@ -35,69 +29,135 @@
                     <option>Kontrahent5</option>
                     <option>Kontrahent6</option>
                 </datalist>
-
             </div>
             <div class="col">
-
-
             </div>
-
             <div class="col-3">
-
-                <label for="DataWystawienia">Nr faktury</label>
-                <input id="DataWystawienia" type="date" class="form-control" placeholder="Wprowadź datę płatności">
-
-                <label for="DataWPłatności">Nr faktury</label>
-                <input id="DataWPłatności" type="date" class="form-control" placeholder="Wprowadź datę wystawienia">
+                <label for="DataWystawienia">Data Wystawienia</label>
+                <input id="DataWystawienia" type="date" class="form-control" placeholder="dd/mm/yyyy">
+                <br>
+                <label for="DataPłatności">Data Płatności</label>
+                <input id="DataPłatności" type="date" class="form-control" placeholder="dd/mm/yyyy">
             </div>
 
         </section>
         <br>
+        <br>
         <section>
-
-
-            <table class="table">
+            <table class="table table-striped">
                 <thead>
                 <tr>
                     <th>LP</th>
                     <th>nazwa</th>
                     <th>szt.</th>
                     <th>netto</th>
-                    <th>vat</th>
+                    <th class="w-15">vat</th>
                     <th>suma brutto.</th>
                 </tr>
                 </thead>
-
                 <tbody>
                 <tr>
                     <td>
                         1
                     </td>
                     <td>
-                        <input id="NrFaktury" type="text" class="form-control" placeholder="Wprowadź numer faktury">
+                        <input id="Nazwa" type="text" class="form-control" name="txtFldName"
+                               placeholder="Wprowadź nazwę" required>
                     </td>
-                    <td>33</td>
+                    <td>
+                        <input id="Szt" type="number" class="form-control" name="txtFldItems"
+                               placeholder="Wprowadź ilość szt." required min="1">
+                    </td>
+                    <td>
+                        <input id="Netto" type="number" class="form-control" name="txtFldNetValue"
+                               placeholder="Wprowadź kwotę netto" required min="0.01" step="0.01">
+                    </td>
+                    <td>
+                        <select id="Vat" type="text" class="form-control" name="txtFldVAT">
+                            <option value="1.23">23%
+                            <option>
+                            <option value="1.08">8%
+                            <option>
+                            <option value="1.05">5%
+                            <option>
+                            <option value="1">0%
+                            <option>
+                            <option value="1">zw
+                            <option>
+                        </select>
+                    </td>
+                    <td>
+                        <input id="SumaBrutto" type="number" class="form-control" name="txtfldGrossValue" readonly>
+                    </td>
+                    <td>
+                        <div class="btn-group">
+                            <button class="btn btn-light">+</button>
+                            <button class="btn btn-dark">-</button>
+
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        2
+                    </td>
+                    <td>
+                        <input id="Nazwa" type="text" class="form-control" name="txtFldName"
+                               placeholder="Wprowadź nazwę" required>
+                    </td>
+                    <td>
+                        <input id="Szt" type="number" class="form-control" name="txtFldItems"
+                               placeholder="Wprowadź ilość szt." required min="1">
+                    </td>
+                    <td>
+                        <input id="Netto" type="number" class="form-control" name="txtFldNetValue"
+                               placeholder="Wprowadź kwotę netto" required min="0.01" step="0.01">
+                    </td>
+                    <td>
+                        <select id="Vat" type="text" class="form-control" name="txtFldVAT">
+                            <option value="1.23">23%
+                            <option>
+                            <option value="1.08">8%
+                            <option>
+                            <option value="1.05">5%
+                            <option>
+                            <option value="1">0%
+                            <option>
+                            <option value="1">zw
+                            <option>
+                        </select>
+                    </td>
+                    <td>
+                        <input id="SumaBrutto" type="number" class="form-control" name="txtfldGrossValue" readonly>
+                    </td>
+
+                    <td>
+                        <div class="btn-group">
+                            <button class="btn btn-light">+</button>
+                            <button class="btn btn-dark">-</button>
+
+                        </div>
+                    </td>
                 </tr>
 
+                <tr hidden>
+                    <td colspan="100">Brak Danych</td>
+                </tr>
 
                 </tbody>
 
                 <tfoot>
+
                 <tr>
-                    <th colspan="2">Total age</th>
-                    <th>66</th>
+                    <th colspan="5" class="text-right">Suma</th>
+                    <th colspan="2"><input type="text" class="form-control" readonly name="txtFldTotal"></th>
                 </tr>
                 </tfoot>
             </table>
 
         </section>
-
-
-        <button class="btn btn-primary">Zapisz</button>
+            <button class="btn btn-primary float-right">Zapisz</button>
     </form>
-
 </div>
-
-
 </body>
 </html>
