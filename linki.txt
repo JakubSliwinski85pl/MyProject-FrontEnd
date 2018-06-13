@@ -22,15 +22,28 @@ talewind css  - zestawy malutkich klas
 
 /* JavaScript */
 javascript WAT - hockiklecki w js
-
 http://jsbin.com/qiciqowifa/edit?js,console         --- 1 lekcja
 'use strict'; - deklaracja trybu 'piszemy poprawny kod' bez podpowiadaczko-interpretacji ze strony przegladarki
-
-
 http://jsbin.com/vodovemubu/edit?js,console   --- tablice
 
 
 /* JavaScript */
+
+
+
+/* jQuerry*/
+-- > nie animowac w jQuerry , lepiej CSS transitions
+-- > niekomunikowć sie za pomocą jQuerry, XML/HTTP object juz nieaktualne
+
+jQuerry();
+$();
+
+
+
+
+
+/* jQuerry*/
+
 
 
 npmjs.com - lista komponentow do pobrania
