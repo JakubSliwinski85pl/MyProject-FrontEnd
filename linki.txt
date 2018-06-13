@@ -26,6 +26,10 @@ javascript WAT - hockiklecki w js
 http://jsbin.com/qiciqowifa/edit?js,console         --- 1 lekcja
 'use strict'; - deklaracja trybu 'piszemy poprawny kod' bez podpowiadaczko-interpretacji ze strony przegladarki
 
+
+http://jsbin.com/vodovemubu/edit?js,console   --- tablice
+
+
 /* JavaScript */
 
 
