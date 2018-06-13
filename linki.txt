@@ -15,15 +15,18 @@ https://flexboxfroggy.com/#pl - gra do nauki flexa
 https://css-tricks.com/snippets/css/complete-guide-grid/ - pozwala za pomoca css tak jak to robią designerzy ( na razie małe wsparcie)
 https://gridbyexample.com/
 
-
-
 --CSS frameworks
 bootstrap - klasy z pełnymi ustawieniami
 talewind css  - zestawy malutkich klas
 
 
+/* JavaScript */
+javascript WAT - hockiklecki w js
 
+http://jsbin.com/qiciqowifa/edit?js,console         --- 1 lekcja
+'use strict'; - deklaracja trybu 'piszemy poprawny kod' bez podpowiadaczko-interpretacji ze strony przegladarki
 
+/* JavaScript */
 
 
 npmjs.com - lista komponentow do pobrania
