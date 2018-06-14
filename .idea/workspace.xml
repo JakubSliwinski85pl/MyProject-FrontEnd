@@ -31,8 +31,13 @@
           <file leaf-file-name="MyFirstInvoice.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/test_invoice/MyFirstInvoice.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="289">
-                  <caret line="131" column="50" selection-start-line="131" selection-start-column="50" selection-end-line="131" selection-end-column="50" />
+                <state relative-caret-position="224">
+                  <caret line="101" column="29" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="29" />
+                  <folding>
+                    <element signature="n#section#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#tr#0;n#thead#0;n#table#0;n#section#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#tr#0;n#tbody#0;n#table#0;n#section#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -49,9 +54,12 @@
           <file leaf-file-name="invoiceJS.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test_invoice/invoiceJS.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+                <state relative-caret-position="254">
+                  <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
                   <folding>
+                    <element signature="e#587#603#0" />
+                    <element signature="e#566#578#0" />
+                    <element signature="e#850#948#0" />
                     <element signature="e#521#568#0" />
                     <element signature="e#1286#1302#0" />
                     <element signature="e#1403#1799#0" />
@@ -123,8 +131,8 @@
           <file leaf-file-name="scriptsJQ.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/jQuerrySandBox/scriptsJQ.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="425">
-                  <caret line="25" column="20" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="20" />
+                <state relative-caret-position="119">
+                  <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
                   <folding>
                     <element signature="n#!!doc" expanded="true" />
                   </folding>
@@ -256,12 +264,12 @@
       <updated>1528704501792</updated>
       <workItem from="1528704503818" duration="12649000" />
       <workItem from="1528783912409" duration="32842000" />
-      <workItem from="1528957135177" duration="21143000" />
+      <workItem from="1528957135177" duration="23366000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66634000" />
+    <option name="totallyTimeSpent" value="68857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="636" y="0" width="906" height="830" extended-state="0" />
@@ -319,8 +327,14 @@
           <line>4</line>
           <properties lambdaOrdinal="-1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/test_invoice/invoiceJS.js</url>
+          <line>20</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -444,16 +458,6 @@
     <entry file="file://$PROJECT_DIR$/test_invoice/invioceCSS.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/jQuerrySandBox/scriptsJQ.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="20" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_invoice/jquery-3.3.1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -484,18 +488,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jQuerrySandBox/scriptsJQ.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test_invoice/MyFirstInvoice.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="131" column="50" selection-start-line="131" selection-start-column="50" selection-end-line="131" selection-end-column="50" />
+        <state relative-caret-position="224">
+          <caret line="101" column="29" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="29" />
+          <folding>
+            <element signature="n#section#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#0;n#thead#0;n#table#0;n#section#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#0;n#tbody#0;n#table#0;n#section#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_invoice/invoiceJS.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="254">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
           <folding>
+            <element signature="e#587#603#0" />
+            <element signature="e#566#578#0" />
+            <element signature="e#850#948#0" />
             <element signature="e#521#568#0" />
             <element signature="e#1286#1302#0" />
             <element signature="e#1403#1799#0" />
