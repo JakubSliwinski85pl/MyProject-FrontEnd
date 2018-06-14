@@ -2,11 +2,13 @@
     background-color: yellow;
     width: 100px;
     height: 100px;
-    margin: 10px 10px 10px 10px;
+    margin: 1px;
     transition: all 0.2s;
     text-align: center;
     line-height: 100px;
+    position: relative;
 }
+
 
 .box.clicked{
     opacity: 0.5;
@@ -15,6 +17,13 @@
 
 .box.template{
     display: none;
+}
+.box button{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 0px;
+    right: 0px;
 }
 
 .row{
