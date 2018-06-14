@@ -67,8 +67,8 @@
           <file leaf-file-name="BoxClick.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test_BoxClick/BoxClick.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="197">
-                  <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+                <state relative-caret-position="-358">
+                  <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
                 </state>
               </provider>
             </entry>
@@ -94,8 +94,8 @@
           <file leaf-file-name="BoxClick_script.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test_BoxClick/BoxClick_script.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="80">
-                  <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+                <state relative-caret-position="85">
+                  <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
                 </state>
               </provider>
             </entry>
@@ -221,12 +221,12 @@
       <updated>1528704501792</updated>
       <workItem from="1528704503818" duration="12649000" />
       <workItem from="1528783912409" duration="32842000" />
-      <workItem from="1528957135177" duration="6366000" />
+      <workItem from="1528957135177" duration="6861000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51857000" />
+    <option name="totallyTimeSpent" value="52352000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="326" y="0" width="1216" height="830" extended-state="0" />
@@ -394,15 +394,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_BoxClick/BoxClick.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+        <state relative-caret-position="-358">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_BoxClick/BoxClick_script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+        <state relative-caret-position="85">
+          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
         </state>
       </provider>
     </entry>
