@@ -2,12 +2,24 @@
 $(function (){
     var $body  = $('body'); //chashowanie selektora//
 
-    $body.on('click', '.box' ,  handleBoxClick);                        //event handler dla klikniecie w box
-    $body.on('click', '.clicked button' ,  removeBox);                  //event handler dla klikniecie w remove box
+    $body                                                              //dla $body:
+        .on('click', '.box' ,  handleBoxClick)                         //event handler dla klikniecie w box
+        .on('click', '.clicked button' ,  removeBox)                   //event handler dla klikniecie w remove box
+    .on('input','[type=number]', handleInputChange);                  //event handler dla zmiany inputa
+
+    function handleInputChange(event) {
+        console.count('input changed');
+    }
+
 
     function removeBox(event) {
-            this.closest('.box').remove();
-            console.log('usuń');
+        console.log('usuń:' + this.className +' '+ this.closest('.box').className);
+        this.closest('.box').remove();                                  // <- this. można użyĆ zaminast:
+                                                                        //
+                                                                        // $target = $(event.target);
+                                                                        // !$target.closest('.box').remove();
+                                                                        //
+
     }
 
     function handleBoxClick (event){
@@ -24,6 +36,9 @@ $(function (){
                                                                         // jak podany w paramtrze 'closest(x)'
                                                                         // i znajdz element taki jak w parametrze find(x)
         var rowIsFull = boxesCount > 4 ;
+
+
+
 
         if(isClicked || rowIsFull){
             console.log('nie dodaję');
