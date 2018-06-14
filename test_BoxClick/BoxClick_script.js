@@ -1,16 +1,20 @@
 
 $(function (){
-    var $body  = $('body');   //chashowanie selektora//
+    var $body  = $('body'); //chashowanie selektora//
 
+    $body.on('click', '.box' ,  addMyProperty);
 
-    $body.on('click', $('.box').css('clicked'), sayHello);
+    function addMyProperty (event){
+        var $target = $(event.target);
+        var isClicked =  $target.hasClass('clicked');
+        var rowIsFull = $target.parent().children().length > 4 ;
 
-    function sayHello (event){
-        if($(event.target).hasClass('clicked')){
-            console.log('Hello');}
-          else {
-            console.log('No');
-            $(event.target).addClass('clicked')
+        if(isClicked || rowIsFull){
+            console.log('nie dodaję');   }
+          else {$target
+            .after('<div class="box">nowy</div>')
+            .addClass('clicked');
+            console.log('dodaję');
         }
     }
 });

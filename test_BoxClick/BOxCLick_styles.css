@@ -3,6 +3,17 @@
     width: 100px;
     height: 100px;
     margin: 10px 10px 10px 10px;
-    alignment: left;
+    transition: all 0.2s;
     text-align: center;
+    line-height: 100px;
+}
+
+.box.clicked{
+    opacity: 0.5;
+    transform: scale(0.8);
+}
+
+.row{
+    display: flex;
+    width: 400px;
 }
