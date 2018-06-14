@@ -13,7 +13,16 @@
     transform: scale(0.8);
 }
 
+.box.template{
+    display: none;
+}
+
 .row{
     display: flex;
-    width: 400px;
+    line-height: 75px;
+}
+
+.boxes{
+    display: flex;
+
 }
