@@ -28,8 +28,13 @@
           <file leaf-file-name="invoice-calculation.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/invoice-vanilla/invoice-calculation.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="510">
-                  <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+                <state relative-caret-position="85">
+                  <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+                  <folding>
+                    <element signature="e#793#836#0" />
+                    <element signature="e#1044#1101#0" />
+                    <element signature="e#1302#1310#0" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -185,12 +190,12 @@
       <workItem from="1528704503818" duration="12649000" />
       <workItem from="1528783912409" duration="32842000" />
       <workItem from="1528957135177" duration="23521000" />
-      <workItem from="1529043071907" duration="11625000" />
+      <workItem from="1529043071907" duration="11814000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80637000" />
+    <option name="totallyTimeSpent" value="80826000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="448" y="0" width="1094" height="830" extended-state="0" />
@@ -533,8 +538,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/invoice-vanilla/invoice-calculation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <element signature="e#793#836#0" />
+            <element signature="e#1044#1101#0" />
+            <element signature="e#1302#1310#0" />
+          </folding>
         </state>
       </provider>
     </entry>
