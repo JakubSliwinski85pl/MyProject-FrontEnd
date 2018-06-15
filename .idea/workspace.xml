@@ -28,8 +28,8 @@
           <file leaf-file-name="invoice-calculation.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/invoice-vanilla/invoice-calculation.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="474">
-                  <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+                <state relative-caret-position="340">
+                  <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
                 </state>
               </provider>
             </entry>
@@ -37,8 +37,8 @@
           <file leaf-file-name="MyFirstInvoice.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/invoice-vanilla/MyFirstInvoice.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="102">
-                  <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
+                <state relative-caret-position="289">
+                  <caret line="110" column="102" selection-start-line="110" selection-start-column="91" selection-end-line="110" selection-end-column="102" />
                 </state>
               </provider>
             </entry>
@@ -185,12 +185,12 @@
       <workItem from="1528704503818" duration="12649000" />
       <workItem from="1528783912409" duration="32842000" />
       <workItem from="1528957135177" duration="23521000" />
-      <workItem from="1529043071907" duration="15339000" />
+      <workItem from="1529043071907" duration="16419000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84351000" />
+    <option name="totallyTimeSpent" value="85431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="509" y="0" width="1034" height="830" extended-state="0" />
@@ -526,15 +526,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/invoice-vanilla/MyFirstInvoice.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
+        <state relative-caret-position="289">
+          <caret line="110" column="102" selection-start-line="110" selection-start-column="91" selection-end-line="110" selection-end-column="102" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/invoice-vanilla/invoice-calculation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="340">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>

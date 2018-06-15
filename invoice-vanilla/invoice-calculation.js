@@ -15,11 +15,32 @@
 
         tbody.addEventListener('click', handleItemAdd);
         tbody.addEventListener('click', handleItemRemove);
+       // tbody.addEventListener('input', calcTotal);
+
+        function enumerate() {
+                tbody.querySelectorAll('tr:not(.template) td:first-child')              //tylko w TR które nie śa template znajdz piewsze td
+                    .forEach(function (td,index) {
+                        td.innerText = index+1;
+                    })
+        }
+
+
+        function calcTotal(event) {
+            var total = 0;
+
+           tbody.querySelectorAll('[name="txtfldGrossValue"]')
+               .forEach(function (sum) {
+                   total = total+ parseFloat(sum.value || 0) ;
+               });
+           document.querySelector('[name="txtFldTotal"]').value = total.toFixed(2);
+        }
+
 
         function handleItemAdd(event) {
             if (event.target.dataset.action === 'add') {                                         //sprawdznaie czy akcja jest zgodna z data.set.action === 'add'
                 console.log('handleItemAdd', event.target.dataset.action);
                 addTr();
+                enumerate();
             }
         }
 
@@ -30,7 +51,8 @@
             if (isRemovedButton && hasMultipleRows) {
                 console.log('handleItemRemove', event.target.dataset.action);
                 event.target.closest('tr').remove();                                       //wybiera selektor najblizszy 'tr' i wykonuje metode remove
-
+                calcTotal();
+                enumerate();
             }
         }
 
@@ -40,7 +62,7 @@
             // number i polach select , bez pól typu strng
             //   console.log('handleItemChange',event);
                 setItemSum(event.target.closest('tr'));
-
+            calcTotal();
         }
 
         function addTr() {
