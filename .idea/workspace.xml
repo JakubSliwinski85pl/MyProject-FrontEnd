@@ -19,8 +19,8 @@
           <file leaf-file-name="linki.txt" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/linki.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="256">
-                  <caret line="39" column="77" selection-start-line="39" selection-start-column="77" selection-end-line="39" selection-end-column="77" />
+                <state relative-caret-position="375">
+                  <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
                 </state>
               </provider>
             </entry>
@@ -28,13 +28,8 @@
           <file leaf-file-name="invoice-calculation.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/invoice-vanilla/invoice-calculation.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="85">
-                  <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-                  <folding>
-                    <element signature="e#793#836#0" />
-                    <element signature="e#1044#1101#0" />
-                    <element signature="e#1302#1310#0" />
-                  </folding>
+                <state relative-caret-position="474">
+                  <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
                 </state>
               </provider>
             </entry>
@@ -42,8 +37,8 @@
           <file leaf-file-name="MyFirstInvoice.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/invoice-vanilla/MyFirstInvoice.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="238">
-                  <caret line="89" column="108" selection-start-line="89" selection-start-column="92" selection-end-line="89" selection-end-column="108" />
+                <state relative-caret-position="102">
+                  <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
                 </state>
               </provider>
             </entry>
@@ -124,8 +119,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="560" />
-    <option name="width" value="1368" />
+    <option name="x" value="636" />
+    <option name="width" value="1293" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -190,18 +185,18 @@
       <workItem from="1528704503818" duration="12649000" />
       <workItem from="1528783912409" duration="32842000" />
       <workItem from="1528957135177" duration="23521000" />
-      <workItem from="1529043071907" duration="11814000" />
+      <workItem from="1529043071907" duration="15339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80826000" />
+    <option name="totallyTimeSpent" value="84351000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="448" y="0" width="1094" height="830" extended-state="0" />
+    <frame x="509" y="0" width="1034" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12037037" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12745099" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -524,27 +519,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/linki.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="39" column="77" selection-start-line="39" selection-start-column="77" selection-end-line="39" selection-end-column="77" />
+        <state relative-caret-position="375">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/invoice-vanilla/MyFirstInvoice.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="89" column="108" selection-start-line="89" selection-start-column="92" selection-end-line="89" selection-end-column="108" />
+        <state relative-caret-position="102">
+          <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/invoice-vanilla/invoice-calculation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <element signature="e#793#836#0" />
-            <element signature="e#1044#1101#0" />
-            <element signature="e#1302#1310#0" />
-          </folding>
+        <state relative-caret-position="474">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>

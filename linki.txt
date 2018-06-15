@@ -42,6 +42,10 @@ $0.addEventListener('click', function() {console.log('gfds')})   -eventy w js
 
 http://youmightnotneedjquery.com/  - sprawdzanie co jest w jquerry w js
 
+webowy edytor do angulara:
+https://stackblitz.com/edit/angular-vtmly7
+
+
 
 /* JavaScript */
 
