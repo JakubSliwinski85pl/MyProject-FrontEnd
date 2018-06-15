@@ -29,6 +29,17 @@ http://jsbin.com/vodovemubu/edit?js,console   --- tablice
 Uruchomienie ad-hoc serwera backend:
 npx json-server -w db.json
 
+
+
+komendy:
+document.querySelectorAll('.form-control')
+
+fc[0].querySelectorAll - odpowiednik .find w jquerry
+$0.dataset  -  wyswietlenie zawartosci artybutu 'data-action'
+fetch('http://localhost:3000/positions').then(function(){});  - pobranie danych z backendu w js bez jquerry
+http://youmightnotneedjquery.com/  - sprawdzanie co jest w jquerry w js
+
+
 /* JavaScript */
 
 

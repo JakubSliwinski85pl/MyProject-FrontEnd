@@ -18,7 +18,7 @@ $(function(){
          $('tbody').append($filledTr);
 
          //
-         console.table(positions);
+   //      console.table(positions);
          //
      });
  }

@@ -7,7 +7,7 @@ $(function () {
         .on('input', '[type=number],select', handleInputChange)                  //event handler dla zmiany inputa
         .on('click', '[data-action="add"]', addItem)
         .on('click', '[data-action="remove"]', removeItem);
-    
+
     setTimeout(function(){
         addTr($('tbody').find('tr:last'));
         calcTotal($('tbody'));
@@ -15,7 +15,7 @@ $(function () {
 
     function removeItem(event) {
   if( $('tbody tr:not(.templte)').length >1){
-      console.log('a')
+    //  console.log('a')
     $(event.target).closest('tr').remove();
     enumerate();
       calcTotal($('tbody'));
@@ -48,7 +48,7 @@ $(function () {
         // var $row = $(this).closest('tr');      // --> to samo poniżej zmiast $(this).
         // var $target = $(event.target);
         // var $row = $target.closest('tr');
-        console.log($(this));
+      //  console.log($(this));
         var items = $row.find('[name="txtFldItems"]').val();
         var net = $row.find('[name="txtFldNetValue"]').val();
         var vat = $row.find('[name="txtFldVAT"]').val();
