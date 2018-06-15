@@ -8,7 +8,7 @@ $(function () {
         .on('click', '[data-action="add"]', addItem)
         .on('click', '[data-action="remove"]', removeItem);
 
-    addTr($('tbody').find('tr:not([hidden])'));
+    addTr($('tbody').find('tr:last'));
 
 function removeItem(event) {
 
@@ -25,6 +25,7 @@ function removeItem(event) {
             .clone()
             .removeClass('template')
         $target.closest('tr').after(newTr);
+
         enumerate();
     }
     function addItem(event) {
