@@ -9,6 +9,7 @@ $(function () {
         .on('click', '[data-action="remove"]', removeItem);
 
     addTr($('tbody').find('tr:last'));
+    calcTotal($('tbody'));
 
 function removeItem(event) {
 
@@ -68,6 +69,4 @@ function removeItem(event) {
         });
         $table.find('[name="txtFldTotal"]').val(total.toFixed(2));
     }
-
-
 });
