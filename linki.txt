@@ -90,3 +90,7 @@ foundation 6
 //inna biblioteka ktora jest rozszerzeniem primeMG
 
 twitter/sulco - na twitterze
+
+
+//angular -projekt z kursu:
+codesandbox.io/s/j7w339yzz5
