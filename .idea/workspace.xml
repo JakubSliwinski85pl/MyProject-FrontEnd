@@ -19,7 +19,7 @@
           <file leaf-file-name="scriptsJQ.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/jQuerrySandBox/scriptsJQ.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="174">
+                <state relative-caret-position="357">
                   <caret line="25" column="20" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="20" />
                   <folding>
                     <element signature="n#!!doc" expanded="true" />
@@ -31,7 +31,7 @@
           <file leaf-file-name="MyFirstInvoice.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/test_invoice/MyFirstInvoice.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="224">
+                <state relative-caret-position="561">
                   <caret line="101" column="29" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="29" />
                   <folding>
                     <element signature="n#section#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -54,16 +54,8 @@
           <file leaf-file-name="invoiceJS.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test_invoice/invoiceJS.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="152">
-                  <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-                  <folding>
-                    <element signature="e#587#603#0" />
-                    <element signature="e#566#578#0" />
-                    <element signature="e#850#948#0" />
-                    <element signature="e#521#568#0" />
-                    <element signature="e#1286#1302#0" />
-                    <element signature="e#1403#1799#0" />
-                  </folding>
+                <state relative-caret-position="204">
+                  <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
                 </state>
               </provider>
             </entry>
@@ -71,7 +63,7 @@
           <file leaf-file-name="MyCSS.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/test_sages/MyCSS.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="269">
+                <state relative-caret-position="272">
                   <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
                 </state>
               </provider>
@@ -80,7 +72,7 @@
           <file leaf-file-name="linki.txt" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/linki.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="190">
+                <state relative-caret-position="799">
                   <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
                 </state>
               </provider>
@@ -89,7 +81,7 @@
           <file leaf-file-name="BoxClick.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/test_BoxClick/BoxClick.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="167">
+                <state relative-caret-position="170">
                   <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="11" />
                 </state>
               </provider>
@@ -98,7 +90,7 @@
           <file leaf-file-name="BOxCLick_styles.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/test_BoxClick/BOxCLick_styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="99">
+                <state relative-caret-position="408">
                   <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
                 </state>
               </provider>
@@ -107,7 +99,7 @@
           <file leaf-file-name="BoxClick_script.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/test_BoxClick/BoxClick_script.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="238">
+                <state relative-caret-position="901">
                   <caret line="53" column="2" lean-forward="true" selection-start-line="53" selection-start-column="2" selection-end-line="56" selection-end-column="38" />
                 </state>
               </provider>
@@ -127,7 +119,7 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="scriptsJQ.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/jQuerrySandBox/scriptsJQ.js">
               <provider selected="true" editor-type-id="text-editor">
@@ -194,8 +186,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="795" />
-    <option name="width" value="1133" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -265,16 +257,18 @@
       <workItem from="1528704503818" duration="12649000" />
       <workItem from="1528783912409" duration="32842000" />
       <workItem from="1528957135177" duration="23521000" />
+      <workItem from="1529043071907" duration="703000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69012000" />
+    <option name="totallyTimeSpent" value="69715000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="636" y="0" width="906" height="830" extended-state="0" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1984305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.091264665" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -296,19 +290,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1984305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -324,12 +318,10 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/test_BoxClick/BoxClick_script.js</url>
           <line>4</line>
-          <properties lambdaOrdinal="-1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/test_invoice/invoiceJS.js</url>
-          <line>20</line>
-          <properties lambdaOrdinal="-1" />
+          <line>22</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
@@ -337,6 +329,86 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test_invoice/MyFirstInvoice.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="101" column="29" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="29" />
+          <folding>
+            <element signature="n#section#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#0;n#thead#0;n#table#0;n#section#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#0;n#tbody#0;n#table#0;n#section#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_invoice/invoiceCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_sages/MyCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linki.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_BoxClick/BoxClick.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_BoxClick/BOxCLick_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_BoxClick/BoxClick_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="2" lean-forward="true" selection-start-line="53" selection-start-column="2" selection-end-line="56" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_invoice/jquery-3.3.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_invoice/invoiceJS.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jQuerrySandBox/scriptsJQ.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test_sages/TestSages.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -411,13 +483,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jQsandbox.html" />
     <entry file="file://$PROJECT_DIR$/test_BoxClick/jquery-3.3.1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/jQuerrySandBox/jQsandbox.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -435,28 +501,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_BoxClick/BOxCLick_styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
+        <state relative-caret-position="408">
           <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_BoxClick/BoxClick.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
+        <state relative-caret-position="170">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/linki.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
+        <state relative-caret-position="799">
           <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_invoice/invioceCSS.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_invoice/invioceCSS.css" />
     <entry file="file://$PROJECT_DIR$/test_invoice/jquery-3.3.1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -468,7 +532,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_BoxClick/BoxClick_script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="901">
           <caret line="53" column="2" lean-forward="true" selection-start-line="53" selection-start-column="2" selection-end-line="56" selection-end-column="38" />
         </state>
       </provider>
@@ -482,14 +546,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_sages/MyCSS.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
+        <state relative-caret-position="272">
           <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jQuerrySandBox/scriptsJQ.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
+        <state relative-caret-position="357">
           <caret line="25" column="20" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="20" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -499,7 +563,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_invoice/MyFirstInvoice.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
+        <state relative-caret-position="561">
           <caret line="101" column="29" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="29" />
           <folding>
             <element signature="n#section#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -511,16 +575,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_invoice/invoiceJS.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-          <folding>
-            <element signature="e#587#603#0" />
-            <element signature="e#566#578#0" />
-            <element signature="e#850#948#0" />
-            <element signature="e#521#568#0" />
-            <element signature="e#1286#1302#0" />
-            <element signature="e#1403#1799#0" />
-          </folding>
+        <state relative-caret-position="204">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>

@@ -11,10 +11,12 @@ $(function () {
     addTr($('tbody').find('tr:not([hidden])'));
 
 function removeItem(event) {
-  if ( $('tobdy tr:not(.templte)').length <2){
-    $(event.target).closed('tr').remove();
-    enumerate;
-    setTotal($('tbody'));
+
+  if( $('tbody tr:not(.templte)').length >1){
+      console.log('a')
+    $(event.target).closest('tr').remove();
+    enumerate();
+      calcTotal($('tbody'));
 }
 }
 
@@ -38,7 +40,7 @@ function removeItem(event) {
     }
     function handleInputChange(event) {
         setItemSum(event);
-        calcTotal(event);
+        calcTotal($(event.target));
     }
     function setItemSum(event) {
         var $target = $(event.target);
@@ -54,8 +56,8 @@ function removeItem(event) {
         $row.find('[name="txtfldGrossValue"]').val(sum.toFixed(2));
         console.log('Values= ' + '  item=' + items + '  net=' + net + '  vat=' + vat);
     }
-    function calcTotal(evrnt) {
-        var $target = $(event.target);
+    function calcTotal($target) {
+        //var $target = $(event.target);
         var $table = $target.closest('table');
         var total = 0;
 
