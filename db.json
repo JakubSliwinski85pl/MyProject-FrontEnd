@@ -1,0 +1,16 @@
+{
+ "positions":[
+     {
+       "name": "Krzesło",
+       "items":4,
+       "net":200,
+       "vat": 1.23
+     },
+     {
+       "name": "Stół",
+       "items":1,
+       "net":900,
+       "vat": 1.23
+     }
+ ]
+}

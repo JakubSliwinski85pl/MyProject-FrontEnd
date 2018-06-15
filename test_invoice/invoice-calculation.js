@@ -7,26 +7,24 @@ $(function () {
         .on('input', '[type=number],select', handleInputChange)                  //event handler dla zmiany inputa
         .on('click', '[data-action="add"]', addItem)
         .on('click', '[data-action="remove"]', removeItem);
+    
+    setTimeout(function(){
+        addTr($('tbody').find('tr:last'));
+        calcTotal($('tbody'));
+    },500);
 
-    addTr($('tbody').find('tr:last'));
-    calcTotal($('tbody'));
-
-function removeItem(event) {
-
+    function removeItem(event) {
   if( $('tbody tr:not(.templte)').length >1){
       console.log('a')
     $(event.target).closest('tr').remove();
     enumerate();
       calcTotal($('tbody'));
-}
-}
-
+}}
     function addTr($target) {
         var newTr = $target.closest('table').find('.template')
             .clone()
             .removeClass('template')
         $target.closest('tr').after(newTr);
-
         enumerate();
     }
     function addItem(event) {

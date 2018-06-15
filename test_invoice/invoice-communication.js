@@ -1,23 +1,11 @@
 $(function(){
+    $.getJSON('http://localhost:3000/positions', function(positions){
+        fillTable(positions);
 
- var positions = [
 
-     {
-      name: 'Krzesło',
-      items:4,
-      net:200,
-      vat: 1.23
-    },
+    });
+});
 
-    {
-        name: 'Stół',
-        items:1,
-        net:900,
-        vat: 1.23
-    }
-];
-
- fillTable(positions);
 
 
  function fillTable(positions) {
@@ -28,6 +16,10 @@ $(function(){
 
          var $filledTr = createTr(position, $newTr);
          $('tbody').append($filledTr);
+
+         //
+         console.table(positions);
+         //
      });
  }
 
@@ -40,5 +32,4 @@ $(function(){
        // console.log($newTr);
         return $newTr;
  }
-    console.table(positions);
-});
+

@@ -37,11 +37,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="invoice-communication.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="invoice-communication.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/test_invoice/invoice-communication.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="287">
-                  <caret line="41" column="2" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
+                <state relative-caret-position="119">
+                  <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
                 </state>
               </provider>
             </entry>
@@ -55,11 +55,21 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="invoice-calculation.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="invoice-calculation.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test_invoice/invoice-calculation.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="233">
-                  <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+                <state relative-caret-position="153">
+                  <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+                  <folding>
+                    <element signature="e#693#829#0" />
+                    <element signature="e#859#1052#0" />
+                    <element signature="e#1081#1152#0" />
+                    <element signature="e#1178#1320#0" />
+                    <element signature="e#1243#1311#0" />
+                    <element signature="e#1359#1419#0" />
+                    <element signature="e#1451#2117#0" />
+                    <element signature="e#2148#2547#0" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -76,17 +86,17 @@
           <file leaf-file-name="linki.txt" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/linki.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="799">
-                  <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+                <state relative-caret-position="323">
+                  <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="BoxClick.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/test_BoxClick/BoxClick.html">
+          <file leaf-file-name="db.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/db.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="170">
-                  <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="11" />
+                <state relative-caret-position="34">
+                  <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
                 </state>
               </provider>
             </entry>
@@ -118,7 +128,7 @@
           <file leaf-file-name="scriptsJQ.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/jQuerrySandBox/scriptsJQ.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="132">
+                <state relative-caret-position="255">
                   <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
                   <folding>
                     <element signature="n#!!doc" expanded="true" />
@@ -164,13 +174,14 @@
         <option value="$PROJECT_DIR$/test_BoxClick/BOxCLick_styles.css" />
         <option value="$PROJECT_DIR$/test_BoxClick/BoxClick.html" />
         <option value="$PROJECT_DIR$/test_BoxClick/BoxClick_script.js" />
-        <option value="$PROJECT_DIR$/linki.txt" />
         <option value="$PROJECT_DIR$/test_invoice/invioceCSS.css" />
         <option value="$PROJECT_DIR$/test_invoice/invoiceCSS.css" />
         <option value="$PROJECT_DIR$/test_invoice/invoiceJS.js" />
         <option value="$PROJECT_DIR$/test_invoice/MyFirstInvoice.html" />
-        <option value="$PROJECT_DIR$/test_invoice/invoice-calculation.js" />
+        <option value="$PROJECT_DIR$/linki.txt" />
+        <option value="$PROJECT_DIR$/db.json" />
         <option value="$PROJECT_DIR$/test_invoice/invoice-communication.js" />
+        <option value="$PROJECT_DIR$/test_invoice/invoice-calculation.js" />
       </list>
     </option>
   </component>
@@ -184,8 +195,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
+    <option name="x" value="560" />
+    <option name="width" value="1368" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -255,18 +266,18 @@
       <workItem from="1528704503818" duration="12649000" />
       <workItem from="1528783912409" duration="32842000" />
       <workItem from="1528957135177" duration="23521000" />
-      <workItem from="1529043071907" duration="3988000" />
+      <workItem from="1529043071907" duration="6280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73000000" />
+    <option name="totallyTimeSpent" value="75292000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="714" y="0" width="829" height="830" extended-state="0" />
+    <frame x="448" y="0" width="1094" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16809817" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12685186" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -318,7 +329,7 @@
           <line>4</line>
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -384,6 +395,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <folding>
+            <element signature="e#693#829#0" />
+            <element signature="e#859#1052#0" />
+            <element signature="e#1081#1152#0" />
+            <element signature="e#1178#1320#0" />
+            <element signature="e#1243#1311#0" />
+            <element signature="e#1359#1419#0" />
+            <element signature="e#1451#2117#0" />
+            <element signature="e#2148#2547#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -501,13 +522,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/linki.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_invoice/invioceCSS.css" />
     <entry file="file://$PROJECT_DIR$/test_invoice/jquery-3.3.1.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -556,17 +570,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_invoice/invoice-calculation.js">
+    <entry file="file://$PROJECT_DIR$/linki.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        <state relative-caret-position="323">
+          <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_invoice/invoice-communication.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="41" column="2" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_invoice/invoice-calculation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="e#693#829#0" />
+            <element signature="e#859#1052#0" />
+            <element signature="e#1081#1152#0" />
+            <element signature="e#1178#1320#0" />
+            <element signature="e#1243#1311#0" />
+            <element signature="e#1359#1419#0" />
+            <element signature="e#1451#2117#0" />
+            <element signature="e#2148#2547#0" />
+          </folding>
         </state>
       </provider>
     </entry>
