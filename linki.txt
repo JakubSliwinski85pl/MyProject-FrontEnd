@@ -37,6 +37,9 @@ document.querySelectorAll('.form-control')
 fc[0].querySelectorAll - odpowiednik .find w jquerry
 $0.dataset  -  wyswietlenie zawartosci artybutu 'data-action'
 fetch('http://localhost:3000/positions').then(function(){});  - pobranie danych z backendu w js bez jquerry
+$0.addEventListener('click', function() {console.log('gfds')})   -eventy w js
+
+
 http://youmightnotneedjquery.com/  - sprawdzanie co jest w jquerry w js
 
 
