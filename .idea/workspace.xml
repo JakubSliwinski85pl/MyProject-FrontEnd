@@ -16,20 +16,20 @@
     <splitter split-orientation="vertical" split-proportion="0.67782426">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="linki.txt" pinned="false" current-in-tab="false">
+          <file leaf-file-name="linki.txt" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/linki.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="375">
-                  <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+                <state relative-caret-position="426">
+                  <caret line="91" column="28" selection-start-line="91" selection-start-column="28" selection-end-line="91" selection-end-column="28" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="invoice-calculation.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="invoice-calculation.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/invoice-vanilla/invoice-calculation.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="340">
-                  <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+                <state relative-caret-position="1411">
+                  <caret line="83" column="90" selection-start-line="83" selection-start-column="90" selection-end-line="83" selection-end-column="90" />
                 </state>
               </provider>
             </entry>
@@ -103,9 +103,9 @@
         <option value="$PROJECT_DIR$/db.json" />
         <option value="$PROJECT_DIR$/test_invoice/invoice-calculation.js" />
         <option value="$PROJECT_DIR$/test_invoice/invoice-communication.js" />
-        <option value="$PROJECT_DIR$/linki.txt" />
         <option value="$PROJECT_DIR$/invoice-vanilla/MyFirstInvoice.html" />
         <option value="$PROJECT_DIR$/invoice-vanilla/invoice-calculation.js" />
+        <option value="$PROJECT_DIR$/linki.txt" />
       </list>
     </option>
   </component>
@@ -185,18 +185,18 @@
       <workItem from="1528704503818" duration="12649000" />
       <workItem from="1528783912409" duration="32842000" />
       <workItem from="1528957135177" duration="23521000" />
-      <workItem from="1529043071907" duration="16419000" />
+      <workItem from="1529043071907" duration="17784000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85431000" />
+    <option name="totallyTimeSpent" value="86796000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="509" y="0" width="1034" height="830" extended-state="0" />
+    <frame x="509" y="0" width="1034" height="830" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12745099" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.12745099" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -219,7 +219,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12037037" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12745099" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -517,13 +517,6 @@
     <entry file="file://$PROJECT_DIR$/invoice-vanilla/invoiceCSS.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/linki.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/invoice-vanilla/MyFirstInvoice.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -533,8 +526,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/invoice-vanilla/invoice-calculation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="1411">
+          <caret line="83" column="90" selection-start-line="83" selection-start-column="90" selection-end-line="83" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linki.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="91" column="28" selection-start-line="91" selection-start-column="28" selection-end-line="91" selection-end-column="28" />
         </state>
       </provider>
     </entry>

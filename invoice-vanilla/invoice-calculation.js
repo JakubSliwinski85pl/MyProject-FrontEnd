@@ -1,12 +1,12 @@
-(function () {                                                                       //dodanie izolujacej funkcji , ktora na koncu jest
-    // wywoływana przez () n końcu
-    // zaraz po wywołaniu przez function(){}()
-    document.addEventListener('DOMContentLoaded', init);                                //czekamy na załadowanie się strony i całego DOM ,
-    // bez jquerry musimy to obsłuzyć w js
+(function () {                                                                     //dodanie izolujacej funkcji , ktora na koncu jest
+                                                                                   // wywoływana przez () n końcu
+                                                                                   // zaraz po wywołaniu przez function(){}()
+    document.addEventListener('DOMContentLoaded', init);                           //czekamy na załadowanie się strony i całego DOM ,
+                                                                                   // bez jquerry musimy to obsłuzyć w js
     var tbody;                                                                     //definicja zmienej dostepnej globalnie
 
 
-    function init() {                                                                  //akcja ktorą wywołujemy już docelowo
+    function init() {                                                              //akcja ktorą wywołujemy już docelowo
         console.log('hello from vanilla');
 
         tbody = document.querySelector('tbody');
@@ -18,7 +18,7 @@
        // tbody.addEventListener('input', calcTotal);
 
         function enumerate() {
-                tbody.querySelectorAll('tr:not(.template) td:first-child')              //tylko w TR które nie śa template znajdz piewsze td
+                tbody.querySelectorAll('tr:not(.template) td:first-child')          //tylko w TR które nie śa template znajdz piewsze td
                     .forEach(function (td,index) {
                         td.innerText = index+1;
                     })
@@ -37,7 +37,7 @@
 
 
         function handleItemAdd(event) {
-            if (event.target.dataset.action === 'add') {                                         //sprawdznaie czy akcja jest zgodna z data.set.action === 'add'
+            if (event.target.dataset.action === 'add') {                                //sprawdznaie czy akcja jest zgodna z data.set.action === 'add'
                 console.log('handleItemAdd', event.target.dataset.action);
                 addTr();
                 enumerate();
@@ -45,8 +45,8 @@
         }
 
         function handleItemRemove(event) {
-            var isRemovedButton = event.target.dataset.action === 'remove'                      //warunki do if'a -> czy jest klasy remove
-            var hasMultipleRows = tbody.querySelectorAll('tr:not(.template)').length > 1;        //tylko wtedy kiedy jest wiecej niz jden wiersz
+            var isRemovedButton = event.target.dataset.action === 'remove'                //warunki do if'a -> czy jest klasy remove
+            var hasMultipleRows = tbody.querySelectorAll('tr:not(.template)').length > 1; //tylko wtedy kiedy jest wiecej niz jden wiersz
 
             if (isRemovedButton && hasMultipleRows) {
                 console.log('handleItemRemove', event.target.dataset.action);
@@ -58,7 +58,7 @@
 
 
         function handleItemChange(event) {
-            if (event.target.type === 'number' || event.target.tagName === 'SELECT')      //ten if powoduje że działa tylko na polach przyjmujacych
+            if (event.target.type === 'number' || event.target.tagName === 'SELECT')       //ten if powoduje że działa tylko na polach przyjmujacych
             // number i polach select , bez pól typu strng
             //   console.log('handleItemChange',event);
                 setItemSum(event.target.closest('tr'));
@@ -81,7 +81,7 @@
             var net = tr.querySelector('[name="txtFldNetValue"]').value;
             var vat = tr.querySelector('[name="txtFldVAT"]').value;
             //console.log(items ,net, vat ,event);
-            var sum = items * net * vat;                                                      //mnożenie danych
+            var sum = items * net * vat;                                                  //mnożenie danych
             tr.querySelector('[name="txtfldGrossValue"]').value = sum.toFixed(2);         //usupełnianie danych w polu 'brutto'
         }
 

@@ -29,8 +29,6 @@ http://jsbin.com/vodovemubu/edit?js,console   --- tablice
 Uruchomienie ad-hoc serwera backend:
 npx json-server -w db.json
 
-
-
 komendy:
 document.querySelectorAll('.form-control')
 
@@ -39,60 +37,56 @@ $0.dataset  -  wyswietlenie zawartosci artybutu 'data-action'
 fetch('http://localhost:3000/positions').then(function(){});  - pobranie danych z backendu w js bez jquerry
 $0.addEventListener('click', function() {console.log('gfds')})   -eventy w js
 
-
 http://youmightnotneedjquery.com/  - sprawdzanie co jest w jquerry w js
 
 webowy edytor do angulara:
 https://stackblitz.com/edit/angular-vtmly7
+//kod z zajęć: js-tyjnf7
+https://js-tyjnf7.stackblitz.io/
 
-
+codesandbox.io - konkurencja
 
 /* JavaScript */
-
-
 
 /* jQuerry*/
 -- > nie animowac w jQuerry , lepiej CSS transitions
 -- > niekomunikowć sie za pomocą jQuerry, XML/HTTP object juz nieaktualne
-
 jQuerry();
 $();
 
-
-
-
-
 /* jQuerry*/
 
-
 SVG animations - ksiazka z pawiem
-
 
 npmjs.com - lista komponentow do pobrania
 npm live-server
 
 npx - pobiera projekt, instalulje i uruchamia
-
-
-
 caniuse.com - sprawdzanie wsparcia przegladarek dla wszystkich technologi
-
-
-
 
 devdocs.io - dokumentacja dla developerów , wiele tematów
 dashup - dokumentacja lokalnie instalowana na kompie
 zealdocs.org - to samo co wyzej tylko na windowsa
 velocity - to samo co wyzej tylko płatnie
 
-
 unsplash - obrazki
-
 
 figma - jak invision
 flinto - animacje
 principle - animacje ( mac)
 
-
 Mobile first - Luc Wróblewski  ( a book a part)  a list apart
 
+
+
+//polecane
+devchat.tv   - radio z podcastami
+
+
+//jak bootstrap
+foundation 6
+
+//select 2  - potężny komponent --fajne wyszukiwanie
+//inna biblioteka ktora jest rozszerzeniem primeMG
+
+twitter/sulco - na twitterze
